@@ -74,7 +74,7 @@ The Generic Codebase Project provides a comprehensive API reference, including d
 
 👤 Author
 -------
-The Generic Codebase Project is maintained by [Your Name](https://github.com/your-username).
+The Generic Codebase Project is maintained by Aniket Chakraborty(https://github.com/Aniket-Chakraborty-tech).
 
 📝 License
 -------
